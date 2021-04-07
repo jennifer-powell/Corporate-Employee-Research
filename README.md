@@ -14,10 +14,10 @@
    
 
 - ## Findings and conclusion
-    - of the questions asked by the company the findings were:
+- of the questions asked by the company the findings were:
     - 35,150 people were hired in 1986
     - 20 employees have the name 'B. Hercules'
     - 52245 Employees in Sales
     - There are no employees that in both sales and development departments, they are in one or the other.
     - there are 1638 different last names
-    63- and employee number "499942" is employee "April Foolsday"
+    - and employee number "499942" is employee "April Foolsday"
