@@ -1,4 +1,4 @@
-# SQL-Challenge
+# Corporate-Employee-Research
 
 
 - ## Overview and Background of Assignment
